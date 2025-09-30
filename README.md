@@ -1,5 +1,5 @@
 # แจกจ่ายรอยยิ้มให้ทุกคน
 
-![logo]([https://www.linqto.com/wp-content/uploads/2023/08/discord-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FTheMatpatEffect%2Fcomments%2F1lp3ayy%2Fthe_original_image_of_the_monkey_thinking_meme%2F%3Ftl%3Dth&psig=AOvVaw2rT8jyiq2ixeCDIMFpFNgT&ust=1759341641452000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPj5tb6IgZADFQAAAAAdAAAAABAE))
+![logo](https://preview.redd.it/the-original-image-of-the-monkey-thinking-meme-v0-ea1hkdjnx9af1.jpeg?width=1080&crop=smart&auto=webp&s=5fb2b05369bfbffd94d6009a679a9a5fe5e4223f)
 
-### สงสัยอะไรก็ถามได้
+### สงสัยอะไรก็ถามได้ ig : [actlikeache](https://www.instagram.com/actlikeache/)
