@@ -5,7 +5,6 @@ def main():
     if len(x) <= 2:
         check = True
         if not int(x):
-            print("kuy")
             check = False
 
         if x[-1] == "0" and check:

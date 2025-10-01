@@ -4,8 +4,7 @@ def main():
     x = int(input())
     check = list(map(int, input().split()))
     ans = []
-    for a,b in enumerate(check):
-        if not a % 2:
-            ans.append(b)
+    for i in range(x):
+        ans.append(max(check[0 + 2 * i], check[1 + 2 * i]))
     print(ans)
 main()
