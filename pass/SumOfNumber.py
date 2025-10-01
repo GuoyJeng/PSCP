@@ -7,9 +7,10 @@ def main():
         num = int(input())
         if num == -1:
             break
-        if num == x:
-            plus += num
-            break
         plus += num
+        if plus == x:
+            break
+        if num == x:
+            break
     print(plus)
 main()
