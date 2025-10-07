@@ -1,7 +1,6 @@
 """Saitama"""
 import math as m
 def main():
-    
     x = int(input())
     y = int(input())
     z = int(input())
