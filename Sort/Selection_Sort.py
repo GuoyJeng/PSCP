@@ -11,7 +11,6 @@ def main():
         check = min(num[i:])
         lo = num.index(check)
         num[i], num[lo] = num[lo], num[i]
-        print(num)
     for i in num:
         print(i)
 main()
