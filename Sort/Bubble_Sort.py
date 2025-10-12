@@ -1,4 +1,4 @@
-"""Selection_Sort"""
+"""Bubble_Sort"""
 def main():
     """main"""
     num = []
@@ -7,10 +7,10 @@ def main():
         if x == "END":
             break
         num.append(int(x))
-    for i,_ in enumerate(num):
-        check = min(num[i:])
-        lo = num.index(check)
-        num[i], num[lo] = num[lo], num[i]
+    for a,_ in enumerate(num):
+        for i,_ in enumerate(num):
+            if num[a] < num[i]:
+                num[a], num[i] = num[i], num[a]
         print(num)
     for i in num:
         print(i)
